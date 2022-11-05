@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 MyStats
 
-![](https://komarev.com/ghpvc/?usernameAbhinay2k3=&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=Abhinay2k3=&color=blueviolet)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Abhinay2k3&show_icons=true&theme=radical)
 
